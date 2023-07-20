@@ -1,1 +1,1 @@
-okay... this is the initial project 
+Assignment 1 - Great Learning Platform
